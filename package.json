@@ -1,11 +1,19 @@
 {
   "name": "mask-sensitive-info",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "The package clean out of string chains all sensitive data. It also allows you to pass new regex expressions.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segpacto/mask-sensitive-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/segpacto/mask-sensitive-info/issues"
+  },
+  "homepage": "https://github.com/segpacto/mask-sensitive-info/#readme",
   "keywords": [
     "regex",
     "clean",
